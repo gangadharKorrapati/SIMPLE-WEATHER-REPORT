@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #eee;
+}
+html{
+    font: normal 20px 'Roboto', sans-serif;
+    text-align: center;
+}
+/*centering to view port*/
+#centered {
+    height: 80vh;
+    width: 80vw;
+    margin: 10vh auto;
+}
+button {
+    background-color: rgba(0,0,0,0.1);
+    border: none;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    font-size: 2vw;
+}
+button:hover{
+    background-color:rgba(255,255,255,0.1);
+}
+h1{
+    font-size:4vw;
+    border-bottom:1vw solid #ccc;
+}
+p{
+    font-size:3vw;
+}
+
+/* colors #7dcc93 #f76160 #31355b #21364b #E29470 #66A7D5 #FA6D68 #679895*/
